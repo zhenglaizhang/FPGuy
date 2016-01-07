@@ -1,7 +1,9 @@
 package org.zzl.fp.util
 
 object StrUtil {
-  def upper(strings: String*): Seq[String] = strings.map { s => s.toUpperCase }
+  def upper(strings: String*): Seq[String] = strings.map(s => s.toUpperCase)
+  
+  def lower(strings: String*) = strings.map(_.toLowerCase)
 }
 
 // StrUtil.upper("hello")

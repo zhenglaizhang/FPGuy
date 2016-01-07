@@ -8,43 +8,30 @@ In the words of Mark Ordersky
 
 **Reference**
 
-*Scala Homepage*
-
+*Scala Homepage & Doc*
 
 	http://scala-lang.org/
-
-*Scala Doc*
 
 *SBT*
 
 	http://scalatutorials.com/beginner/2013/07/18/getting-started-with-sbt/
 	http://www.scala-sbt.org/release/tutorial/Hello.html
 
-
-*Scala IDE* 
-
+*Eclipse and Plugin*
+	
 	http://scala-ide.org/download/current.html
-
-
-*Eclipse with EGit Tutorial*
-	
 	http://www.vogella.com/tutorials/EclipseGit/article.html#exercise_egitconfiguration
-
-Eclipse Github README.md MarkDown plugin
-	
 	http://www.winterwell.com/software/markdown-editor.php
-
-`def helloScala = "Hello Scala"`
-
-ShellEd
-	
 	http://sourceforge.net/projects/shelled/files/shelled/update/
-	
-	
-
 
 
 # Provision
 
-> `bash ScalaEnvSetup.sh`
+Run following command to setup development environment on Mac OS X
+	
+	> bash ScalaEnvSetup.sh
+
+
+# Quick Start Template
+* Check the project_skeleton folder
 
