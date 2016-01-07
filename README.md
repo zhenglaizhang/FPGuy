@@ -15,6 +15,11 @@ In the words of Mark Ordersky
 
 *Scala Doc*
 
+*SBT*
+
+	http://scalatutorials.com/beginner/2013/07/18/getting-started-with-sbt/
+	http://www.scala-sbt.org/release/tutorial/Hello.html
+
 
 *Scala IDE* 
 
