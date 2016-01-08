@@ -4,6 +4,9 @@ object StrUtil {
   def upper(strings: String*): Seq[String] = strings.map(s => s.toUpperCase)
   
   def lower(strings: String*) = strings.map(_.toLowerCase)
+  
+  
+  def joiner(strings: String*): String = strings.mkString("-")
 }
 
 // StrUtil.upper("hello")
